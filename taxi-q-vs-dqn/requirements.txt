@@ -1,0 +1,4 @@
+gymnasium[toy_text]
+numpy
+matplotlib
+torch
